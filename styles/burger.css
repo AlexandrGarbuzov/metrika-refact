@@ -146,7 +146,7 @@
 @media (max-width: 767px) {
   .burger__btn {
     right: 12px;
-    height: 30px;
+    height: 12px;
   }
 
   .burger__btn-open {
